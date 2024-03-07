@@ -1,8 +1,5 @@
 #include "header.h"
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
-
 // So this source file is for functions that copy files and make directories
 
 void copyFile(const char *first, const char *second) {
