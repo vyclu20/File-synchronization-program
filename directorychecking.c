@@ -1,8 +1,5 @@
 #include "header.h"
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
-
 // This source file is for functions that does directory stuff
 // The first one opens, reads, processes and closes directories
 // The second one is actually kind of related to the stuff in patternmatch.c, but I've decided to put it here because it's more directory related
