@@ -1,9 +1,5 @@
 #include "header.h"
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
-
-
 // This entire source file is for pattern matching stuff (-i, -o, -a)
 // Where the 1st function is the given regex function
 // The second one is for -i/-o of files/directories and -a of files, so the -a is just the top part where it checks for the . and the rest is regex stuff
