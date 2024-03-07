@@ -12,8 +12,6 @@
 #include <regex.h>
 #include <getopt.h>
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
 
 #define PATTERNMAX 100
 
