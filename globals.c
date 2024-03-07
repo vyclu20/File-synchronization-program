@@ -1,8 +1,5 @@
 #include "header.h"
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
-
 bool allFunc = false;       // -a
 bool verbFunc = false;        // -v
 bool noChangeFunc = false;       // -n
