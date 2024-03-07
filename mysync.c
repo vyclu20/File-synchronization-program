@@ -1,8 +1,5 @@
 #include "header.h"
 
-//  CITS2002 Project 2 2023
-//  Student1:   23484481   Victoria Felice
-
 // This c source file contains the main as well as the function that does the syncing operations
 
 // This one is here for recursive
